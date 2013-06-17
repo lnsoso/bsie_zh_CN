@@ -1,11 +1,13 @@
-## Welcome, This is bsie project Home.
+## Twitter BootStrap v2 IE6.0兼容扩展
 
-### Introduce
-bsie is a patch library for Bootstrap IE6 support, bootstrap is a good web UI library from [twitter.com](http://twitter.github.com/bootstrap)
+### 简介
 
-At present, bsie support the most common feature of bootstrap on IE6, but not all ...
+Bsie 是一个为 Bootstrap 提供 IE6 兼容能力的库，Bootstrap 是来自 twitter.com 的优秀 Web UI 库，它让快速开发人性化的 Web 界面成为可能。 
 
-Following table is currently supported component & feature:
+目前，Bsie 能在 IE6 上支持 Bootstrap 2.2.1 版本的大部分常用特性，但还没有全部支持 ...
+
+下面是一张目前支持的组件和特性表：
+
 ```
 Component       Feature
 -----------------------------------------------------------
